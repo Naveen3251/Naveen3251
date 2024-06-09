@@ -54,6 +54,5 @@ I am a B.Tech student specializing in Artificial Intelligence and Data Science a
 [![Email](https://img.shields.io/badge/Email-red)](mailto:naveensakthivel3251@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-black)](https://github.com/Naveen3251)
 
-![Naveen's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Naveen3251&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Naveen3251&layout=compact&theme=radical)
 

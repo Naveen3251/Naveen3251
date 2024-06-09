@@ -1,16 +1,71 @@
-## Hi there 👋
+# Hi there, I'm Naveen Kumar S 👋
 
-<!--
-**Naveen3251/Naveen3251** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## About Me
+I am a B.Tech student specializing in Artificial Intelligence and Data Science at Sri Eshwar College of Engineering with a CGPA of 8.96 (up to 5th semester). I have hands-on experience in cloud infrastructure, web development, machine learning, and data visualization.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+
+### Programming Languages
+![Python](https://img.shields.io/badge/-Python-blue)
+![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+![SQL](https://img.shields.io/badge/-SQL-blue)
+![Java](https://img.shields.io/badge/-Java-orange)
+![C](https://img.shields.io/badge/-C-green)
+
+### Web Development
+![React](https://img.shields.io/badge/-React-blue)
+![NextJS](https://img.shields.io/badge/-NextJS-black)
+![NodeJS](https://img.shields.io/badge/-NodeJS-green)
+![TailWindCSS](https://img.shields.io/badge/-TailWindCSS-lightblue)
+![HTML](https://img.shields.io/badge/-HTML-red)
+
+### Database Management
+![MongoDB](https://img.shields.io/badge/-MongoDB-green)
+
+### Cloud
+![AWS](https://img.shields.io/badge/-AWS-orange)
+
+### Data Manipulation and Modeling
+![NumPy](https://img.shields.io/badge/-NumPy-lightblue)
+![Pandas](https://img.shields.io/badge/-Pandas-yellow)
+
+### Machine Learning
+![Scikit-Learn](https://img.shields.io/badge/-Scikit--Learn-orange)
+
+### Deep Learning
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-orange)
+
+
+## Education
+- **B.Tech (AI & DS)**, Sri Eshwar College of Engineering, CGPA: 8.96 (Upto 5th Sem)
+- **HSC**, Nachiar Vidyalayam, Percentage: 96%
+- **SSLC**, Vivekananda Vidyalaya, Percentage: 96%
+
+## Projects
+
+### Implemented Three-Tier Architecture on AWS
+**Cloud Infrastructure Components**: VPC, EC2, RDS, S3-Bucket, ELB
+
+### Predictive Lap Harmony Project
+**Tech Stack**: ZenML, MLflow, Regression Algorithms, Seaborn, Scikit-learn, Matplotlib
+
+### WithEasiness
+**Tech Stack**: Next.js, Tailwind CSS, TypeScript, Clerk, LangChain.js, Gemini-Pro, Gemini Vision, ResembleAI, GPT, Python, PineConeDB
+
+### PsychEduCompanions
+**Tech Stack**: Next.js, Tailwind CSS, TypeScript, Node.js, MySQL, Prisma, PineConeDB, LLAMA-70B, OpenAI
+
+
+## Achievements
+- **Leetcode Contest Rating**: 1700+ | Global Rank: 62,791/496,921
+- **Africa AI | International Level Hackathon**: Second place
+- **Hack-AI-Thon | Karpagam National Level Hackathon**: Second place
+
+## Connect with Me
+[![LinkedIn]([https://img.shields.io/badge/LinkedIn-blue)](https://www.linkedin.com/in/yourprofile](https://www.linkedin.com/in/naveen-kumar-s-844450311))
+[![Email](https://img.shields.io/badge/Email-red)](mailto:naveensakthivel3251@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-black)](https://github.com/Naveen3251)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Naveen3251&show_icons=true&theme=radical)

@@ -43,20 +43,6 @@ I am a B.Tech student specializing in Artificial Intelligence and Data Science a
 - **HSC**, Nachiar Vidyalayam, Percentage: 96%
 - **SSLC**, Vivekananda Vidyalaya, Percentage: 96%
 
-## Projects
-
-### Implemented Three-Tier Architecture on AWS
-**Cloud Infrastructure Components**: VPC, EC2, RDS, S3-Bucket, ELB
-
-### Predictive Lap Harmony Project
-**Tech Stack**: ZenML, MLflow, Regression Algorithms, Seaborn, Scikit-learn, Matplotlib
-
-### WithEasiness
-**Tech Stack**: Next.js, Tailwind CSS, TypeScript, Clerk, LangChain.js, Gemini-Pro, Gemini Vision, ResembleAI, GPT, Python, PineConeDB
-
-### PsychEduCompanions
-**Tech Stack**: Next.js, Tailwind CSS, TypeScript, Node.js, MySQL, Prisma, PineConeDB, LLAMA-70B, OpenAI
-
 
 ## Achievements
 - **Leetcode Contest Rating**: 1700+ | Global Rank: 62,791/496,921
@@ -64,7 +50,7 @@ I am a B.Tech student specializing in Artificial Intelligence and Data Science a
 - **Hack-AI-Thon | Karpagam National Level Hackathon**: Second place
 
 ## Connect with Me
-[![LinkedIn]([https://img.shields.io/badge/LinkedIn-blue)](https://www.linkedin.com/in/yourprofile](https://www.linkedin.com/in/naveen-kumar-s-844450311))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue)](https://www.linkedin.com/in/naveen-kumar-s-844450311)
 [![Email](https://img.shields.io/badge/Email-red)](mailto:naveensakthivel3251@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-black)](https://github.com/Naveen3251)
 

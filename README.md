@@ -16,7 +16,7 @@ I am a B.Tech student specializing in Artificial Intelligence and Data Science a
 
 ### Web Development
 ![React](https://img.shields.io/badge/-React-blue)
-![NextJS](https://img.shields.io/badge/-NextJS-black)
+![NextJS](https://img.shields.io/badge/-NextJS-yellow)
 ![NodeJS](https://img.shields.io/badge/-NodeJS-green)
 ![TailWindCSS](https://img.shields.io/badge/-TailWindCSS-lightblue)
 ![HTML](https://img.shields.io/badge/-HTML-red)
